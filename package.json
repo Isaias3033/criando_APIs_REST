@@ -11,5 +11,8 @@
     "url": "https://github.com/Isaias3033/criando_APIs_REST.git"
   },
   "author": "Isaias Santana",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
