@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "lição do jacques",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
@@ -14,7 +15,9 @@
   "author": "Isaias Santana",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "criando_apis_rest": "file:",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
